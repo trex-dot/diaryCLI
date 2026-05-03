@@ -1,0 +1,5 @@
+Python is a great programming language.
+Python is used for web development and data science.
+Many researchers use Python for machine learning.
+Python makes programming fun and easy.
+Learning Python is the best decision I made.
