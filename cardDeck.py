@@ -57,3 +57,13 @@ class Deck:
 
     def __str__(self):
         return f"Deck with {len(self.cards)} cards remaining"
+
+deck = Deck()
+print(len(deck))        # 52
+deck.shuffle()
+hand = deck.deal(5)
+for card in hand:
+    print(card)
+print(len(deck))        # 47
+for card in sorted(hand):
+    print(card)
