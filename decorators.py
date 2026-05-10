@@ -71,5 +71,5 @@ print(slow(1))
 print(might_fail())
 print(fib(10))
 print(add(1, 2))
-print(add("a", 2))  # should raise TypeError
+print(add("a", 2)) 
 
