@@ -1,0 +1,8 @@
+LOG ANALYSIS REPORT
+===================
+Most Common Errors:
+[('DatabaseConnectionError', 3), ('TimeoutError', 2), ('AuthenticationError', 2)]
+
+Most Frequent IP: 192.168.1.1 (4 times)
+
+Busiest Hour: 09:00 (4 requests)
